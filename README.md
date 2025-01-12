@@ -16,8 +16,8 @@ A Ruby implementation of the classic Unix `diff` utility that compares files lin
 1. Ensure you have Ruby installed (version 2.0 or higher)
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ruby-diff-tool.git
-   cd ruby-diff-tool
+   git clone https://github.com/apih99/diffRuby.git
+   cd diffRuby
    ```
 
 ## 💻 Usage
